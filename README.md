@@ -1,1 +1,3 @@
 # 2nd-Updated-Portfolio
+
+Here is a further update to my portfolio, containing links to now 4 homework assignments as well as project 2. The only real changes were to the portfolio html and that's about it. I'm in a time crunch right now, which is entirely my fault but as I stated in the last updated portfolio I do not intend to go into a coding profession once this course is over. Make of that what you will. 
